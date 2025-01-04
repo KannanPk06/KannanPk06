@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kannan P
 - 👀 I’m interested in Networking
-- 🌱 I’m currently learning Java, python and Networking
+- 🌱 I’m currently learning Network Security
 - 💞️ I’m looking to collaborate on Networking Partners
 - 📫 How to reach me @kannanvpk29@gmail.com
 
